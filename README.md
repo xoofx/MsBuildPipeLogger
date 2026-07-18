@@ -1,3 +1,12 @@
+> [!NOTE]
+>
+> 🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨
+>
+> This project has been migrated to [XenoAtom.MsBuildPipeLogger](https://github.com/XenoAtom/XenoAtom.MsBuildPipeLogger)
+>
+> 🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨
+____
+
 A logger for MSBuild that sends event data over anonymous or named pipes.
 
 **NuGet**
